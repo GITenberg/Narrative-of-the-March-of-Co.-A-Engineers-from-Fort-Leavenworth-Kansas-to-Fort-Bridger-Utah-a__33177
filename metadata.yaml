@@ -1,0 +1,34 @@
+_repo: Narrative-of-the-March-of-Co.-A-Engineers-from-Fort-Leavenworth-Kansas-to-Fort-Bridger-Utah-a__33177
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Thompson, Gilbert
+    gutenberg_agent_id: '36244'
+    url: http://www.gutenberg.org/2009/agents/36244
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seville, William P.
+    gutenberg_agent_id: '36243'
+    url: http://www.gutenberg.org/2009/agents/36243
+  editor:
+    agent_name: Schulz, John W. N.
+    gutenberg_agent_id: '36245'
+    url: http://www.gutenberg.org/2009/agents/36245
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'United States. Army. Corps of Engineers'
+title: Narrative of the March of Co. A, Engineers from Fort Leavenworth, Kansas, to
+  Fort Bridger, Utah, and Return, May 6 to October 3, 1858
+url: http://www.gutenberg.org/ebooks/33177
